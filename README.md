@@ -1,6 +1,6 @@
 This project is a real-time Sign Language Recognition System that uses computer vision and machine learning to detect and classify hand gestures into commonly used sign language expressions. The system helps bridge the communication gap by recognizing and translating signs into text.
 
-Features
+FEATURE
 
 Real-time hand gesture detection using a system camera or webcam.
 Classification of hand gestures into predefined labels:
@@ -17,7 +17,7 @@ Robust preprocessing to standardize input images.
 
 Modular codebase for data collection, model training, and testing.
 
-Technologies Used
+TECHNOLOGY USED
 
 Python: Programming language for implementation.
 Ensure pip is installed by running:
@@ -44,19 +44,19 @@ Install the required dependencies:
 pip install -r requirements.txt
 
 
-Ensure you have a working webcam.
+ENSURE THE WORKING.
 
 Place the pre-trained model (keras_model.h5) and labels file (labels.txt) in the Model/ directory.
 
 
-Data Collection
+DATA COLLECTION
 
 Run the data_collection.py script to collect hand gesture data:
 python data_collection.py
 The collected data will be stored in the Data/ directory.
 
 
-Testing
+TESTING
 
 Use the main.py script to test the system:
 python main.py
@@ -75,7 +75,7 @@ SignLanguageRecognition/
 └── README.md             # Project documentation
 
 
-Output
+OUTPUT
 
 The system will display:
 
@@ -83,12 +83,7 @@ Webcam feed with a bounding box around the detected hand.
 Predicted label of the hand gesture displayed above the bounding box.
 
 
-Future Improvements
-
-Add support for more gestures.
-
-
-Acknowledgments
+ACKNOWLEDGEMENT
 
 cvzone library for simplifying computer vision tasks.
 TensorFlow/Keras for providing an efficient platform for model training.
