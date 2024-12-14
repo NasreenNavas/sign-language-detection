@@ -1,6 +1,7 @@
+# SIGN LANGUAGE DETECTION
 This project is a real-time Sign Language Recognition System that uses computer vision and machine learning to detect and classify hand gestures into commonly used sign language expressions. The system helps bridge the communication gap by recognizing and translating signs into text.
 
-#FEATURE
+#FEATURES
 
 Real-time hand gesture detection using a system camera or webcam.
 Classification of hand gestures into predefined labels:
