@@ -66,15 +66,7 @@ python main.py
 
 ![image](https://github.com/user-attachments/assets/9721fb6f-c8b9-4a29-bd13-998048067648)
 
-SignLanguageRecognition/
-├── Data/                 # Folder containing collected data (optional if large)
-├── Model/
-│   ├── keras_model.h5    # Your trained model
-│   └── labels.txt        # Label file for the model
-├── main.py               # Testing script
-├── data_collection.py    # Data collection script
-├── requirements.txt      # Dependencies (libraries required)
-└── README.md             # Project documentation
+
 
 
 #OUTPUT
